@@ -1,0 +1,242 @@
+{
+ "photography-01/1": {
+  "w": 720,
+  "h": 250,
+  "bg": "#121312",
+  "dark": true
+ },
+ "photography-02/1": {
+  "w": 720,
+  "h": 393,
+  "bg": "#3a3828",
+  "dark": true
+ },
+ "photography-03/1": {
+  "w": 238,
+  "h": 352,
+  "bg": "#cfd0ce",
+  "dark": false
+ },
+ "photography-03/2": {
+  "w": 237,
+  "h": 352,
+  "bg": "#aaa9a4",
+  "dark": false
+ },
+ "photography-03/3": {
+  "w": 239,
+  "h": 352,
+  "bg": "#a39f99",
+  "dark": false
+ },
+ "product-01/1": {
+  "w": 470,
+  "h": 960,
+  "bg": "#efd5ba",
+  "dark": false
+ },
+ "product-02/1": {
+  "w": 284,
+  "h": 429,
+  "bg": "#f4d9c2",
+  "dark": false
+ },
+ "product-02/2": {
+  "w": 324,
+  "h": 214,
+  "bg": "#f5d8ba",
+  "dark": false
+ },
+ "product-02/3": {
+  "w": 324,
+  "h": 211,
+  "bg": "#d7d7d6",
+  "dark": false
+ },
+ "instagram-not-plastic/1": {
+  "w": 237,
+  "h": 230,
+  "bg": "#b0d0a5",
+  "dark": false
+ },
+ "instagram-not-plastic/2": {
+  "w": 235,
+  "h": 230,
+  "bg": "#e7e0d7",
+  "dark": false
+ },
+ "instagram-not-plastic/3": {
+  "w": 233,
+  "h": 230,
+  "bg": "#80a77f",
+  "dark": false
+ },
+ "instagram-not-plastic/4": {
+  "w": 237,
+  "h": 230,
+  "bg": "#efebe3",
+  "dark": false
+ },
+ "instagram-not-plastic/5": {
+  "w": 235,
+  "h": 230,
+  "bg": "#a6c8a0",
+  "dark": false
+ },
+ "instagram-not-plastic/6": {
+  "w": 233,
+  "h": 230,
+  "bg": "#e0dad4",
+  "dark": false
+ },
+ "instagram-not-plastic/7": {
+  "w": 237,
+  "h": 230,
+  "bg": "#b1cba9",
+  "dark": false
+ },
+ "instagram-not-plastic/8": {
+  "w": 235,
+  "h": 230,
+  "bg": "#f1e9e6",
+  "dark": false
+ },
+ "instagram-not-plastic/9": {
+  "w": 233,
+  "h": 230,
+  "bg": "#91b188",
+  "dark": false
+ },
+ "feed-data-privacy/1": {
+  "w": 232,
+  "h": 228,
+  "bg": "#9c9c9c",
+  "dark": false
+ },
+ "feed-data-privacy/2": {
+  "w": 231,
+  "h": 228,
+  "bg": "#393c37",
+  "dark": true
+ },
+ "feed-data-privacy/3": {
+  "w": 231,
+  "h": 228,
+  "bg": "#73796a",
+  "dark": true
+ },
+ "feed-data-privacy/4": {
+  "w": 232,
+  "h": 226,
+  "bg": "#151713",
+  "dark": true
+ },
+ "feed-data-privacy/5": {
+  "w": 231,
+  "h": 226,
+  "bg": "#666766",
+  "dark": true
+ },
+ "feed-data-privacy/6": {
+  "w": 231,
+  "h": 226,
+  "bg": "#161518",
+  "dark": true
+ },
+ "feed-data-privacy/7": {
+  "w": 232,
+  "h": 227,
+  "bg": "#6c6e6c",
+  "dark": true
+ },
+ "feed-data-privacy/8": {
+  "w": 231,
+  "h": 227,
+  "bg": "#131313",
+  "dark": true
+ },
+ "feed-data-privacy/9": {
+  "w": 231,
+  "h": 227,
+  "bg": "#a4a4a3",
+  "dark": false
+ },
+ "flyer-halloween/1": {
+  "w": 316,
+  "h": 310,
+  "bg": "#0e0e0e",
+  "dark": true
+ },
+ "flyer-happy-hour/1": {
+  "w": 316,
+  "h": 310,
+  "bg": "#2c2f2e",
+  "dark": true
+ },
+ "flyer-pizza-up/1": {
+  "w": 316,
+  "h": 314,
+  "bg": "#f4d0ac",
+  "dark": false
+ },
+ "flyer-sundays/1": {
+  "w": 316,
+  "h": 314,
+  "bg": "#0b0b0c",
+  "dark": true
+ },
+ "flyer-burger/1": {
+  "w": 316,
+  "h": 315,
+  "bg": "#b0853d",
+  "dark": true
+ },
+ "flyer-beer/1": {
+  "w": 316,
+  "h": 315,
+  "bg": "#2b3526",
+  "dark": true
+ },
+ "about-portrait/1": {
+  "w": 239,
+  "h": 272,
+  "bg": "#947658",
+  "dark": true
+ },
+ "tshirt-vision/1": {
+  "w": 343,
+  "h": 347,
+  "bg": "#151515",
+  "dark": true
+ },
+ "tshirt-truth-lies-in-chaos/1": {
+  "w": 346,
+  "h": 348,
+  "bg": "#202020",
+  "dark": true
+ },
+ "tshirt-hungry-co/1": {
+  "w": 346,
+  "h": 348,
+  "bg": "#1e1e1e",
+  "dark": true
+ },
+ "tshirt-huco-rider/1": {
+  "w": 343,
+  "h": 348,
+  "bg": "#1b1b1b",
+  "dark": true
+ },
+ "tshirt-hucodvsn-skull/1": {
+  "w": 346,
+  "h": 348,
+  "bg": "#1f1f1f",
+  "dark": true
+ },
+ "tshirt-h-logo/1": {
+  "w": 346,
+  "h": 348,
+  "bg": "#404040",
+  "dark": true
+ }
+}
